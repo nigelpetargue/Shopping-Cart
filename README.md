@@ -1,4 +1,4 @@
-# Shopping-Cart
+# shopping-cart
 
 ## Getting Started
 
