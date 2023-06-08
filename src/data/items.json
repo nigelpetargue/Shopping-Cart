@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Beef",
+    "price": 155.0,
+    "image": "./images/feature-1.jpg.webp"
+  },
+  {
+    "id": 2,
+    "name": "Banana",
+    "price": 12.0,
+    "image": "./images/feature-2.jpg.webp"
+  },
+  {
+    "id": 3,
+    "name": "Guava",
+    "price": 8.0,
+    "image": "./images/feature-3.jpg.webp"
+  },
+  {
+    "id": 4,
+    "name": "Watermelon",
+    "price": 20.0,
+    "image": "./images/feature-4.jpg.webp"
+  },
+  {
+    "id": 6,
+    "name": "Hamburger",
+    "price": 24.0,
+    "image": "./images/feature-6.jpg.webp"
+  },
+  {
+    "id": 7,
+    "name": "Mango",
+    "price": 15.0,
+    "image": "./images/feature-7.jpg.webp"
+  },
+  {
+    "id": 8,
+    "name": "Apple",
+    "price": 12.0,
+    "image": "./images/feature-8.jpg.webp"
+  }
+]
