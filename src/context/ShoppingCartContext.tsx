@@ -1,4 +1,4 @@
-import { ReactNode, createContext, useContext, useState } from 'react';
+import { ReactNode, createContext, useContext } from 'react';
 import store_data from '../data/items.json';
 import { useLocalStorage } from '../hooks/useLocalStorage';
 
